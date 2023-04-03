@@ -1,5 +1,5 @@
-import 'package:chatgpt_course/providers/models_provider.dart';
-import 'package:chatgpt_course/widgets/text_widget.dart';
+import 'package:chatgpt_app/providers/models_provider.dart';
+import 'package:chatgpt_app/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:provider/provider.dart';
