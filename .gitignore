@@ -44,6 +44,5 @@ app.*.map.json
 /android/app/release
 
 # Private keys
-env.g.dart
 .env
 *.env
