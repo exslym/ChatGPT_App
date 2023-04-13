@@ -1,3 +1,23 @@
-# Build ChatGPT App in Flutter using OpenAI API<br><br>
+## Build ChatGPT App in Flutter using OpenAI API
 
-The new Chat API now calls gpt-3.5-turbo, the same model used in the ChatGPT product. This means that you'll get even better results from the API.
+### The new ChatGPT Flutter project (gpt-3.5-turbo) using openAI API.
+
+---
+
+### Installation
+
+```
+flutter packages get
+```
+
+### Start Simulator
+
+```
+open -a Simulator
+```
+
+### Start Project
+
+```
+flutter run
+```
