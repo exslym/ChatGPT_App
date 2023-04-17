@@ -1,4 +1,4 @@
-## Build ChatGPT App in Flutter using OpenAI API
+## [ChatGPT App (web version)](https://chat-gpt-app-exslym.vercel.app/)
 
 ![preview](https://github.com/exslym/ChatGPT_App/blob/main/assets/images/preview.jpg)
 
