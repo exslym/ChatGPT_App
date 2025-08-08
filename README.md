@@ -23,3 +23,9 @@ open -a Simulator
 ```
 flutter run
 ```
+
+### Start WEB version of Project
+
+```
+flutter run -d chrome
+```
